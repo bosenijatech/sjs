@@ -41,46 +41,47 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBzJLQNfsRnBBpgGPBQpmETeUZuLsEn5JA',
-    appId: '1:503248905696:web:2d4a7f620cc6f038d8b785',
-    messagingSenderId: '503248905696',
-    projectId: 'winstar-8fbeb',
-    authDomain: 'winstar-8fbeb.firebaseapp.com',
-    storageBucket: 'winstar-8fbeb.firebasestorage.app',
+    apiKey: 'AIzaSyC5m1UGVhFfmNVm7U7wPScSu_Lw9i9nqqI',
+    appId: '1:161916040907:web:671ee991173b0db0ef0d4e',
+    messagingSenderId: '161916040907',
+    projectId: 'sjs-ess-9c531',
+    authDomain: 'sjs-ess-9c531.firebaseapp.com',
+    storageBucket: 'sjs-ess-9c531.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAoSOQqC9dzBB5oU8iZRSChI33bhavOZKA',
-    appId: '1:503248905696:android:068cc2d2b5edd0f5d8b785',
-    messagingSenderId: '503248905696',
-    projectId: 'winstar-8fbeb',
-    storageBucket: 'winstar-8fbeb.firebasestorage.app',
+    apiKey: 'AIzaSyARuF3mdslytXLpffOob4uJHUigDvVPawQ',
+    appId: '1:161916040907:android:020acbede88b6276ef0d4e',
+    messagingSenderId: '161916040907',
+    projectId: 'sjs-ess-9c531',
+    storageBucket: 'sjs-ess-9c531.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDSrwLzoY6fzlLbQy4Fx3rFR3UDI9JOVnk',
-    appId: '1:503248905696:ios:6a4b4645cb954458d8b785',
-    messagingSenderId: '503248905696',
-    projectId: 'winstar-8fbeb',
-    storageBucket: 'winstar-8fbeb.firebasestorage.app',
-    iosBundleId: 'com.nijatech.winstar',
+    apiKey: 'AIzaSyDOHpkgw312WTDAO26h-AxZ7roUu-s5o1g',
+    appId: '1:161916040907:ios:abb60d7f186dea33ef0d4e',
+    messagingSenderId: '161916040907',
+    projectId: 'sjs-ess-9c531',
+    storageBucket: 'sjs-ess-9c531.firebasestorage.app',
+    iosBundleId: 'com.nijatech.sjs',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDSrwLzoY6fzlLbQy4Fx3rFR3UDI9JOVnk',
-    appId: '1:503248905696:ios:6a4b4645cb954458d8b785',
-    messagingSenderId: '503248905696',
-    projectId: 'winstar-8fbeb',
-    storageBucket: 'winstar-8fbeb.firebasestorage.app',
-    iosBundleId: 'com.nijatech.winstar',
+    apiKey: 'AIzaSyDOHpkgw312WTDAO26h-AxZ7roUu-s5o1g',
+    appId: '1:161916040907:ios:abb60d7f186dea33ef0d4e',
+    messagingSenderId: '161916040907',
+    projectId: 'sjs-ess-9c531',
+    storageBucket: 'sjs-ess-9c531.firebasestorage.app',
+    iosBundleId: 'com.nijatech.sjs',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBzJLQNfsRnBBpgGPBQpmETeUZuLsEn5JA',
-    appId: '1:503248905696:web:dae039325ac35adad8b785',
-    messagingSenderId: '503248905696',
-    projectId: 'winstar-8fbeb',
-    authDomain: 'winstar-8fbeb.firebaseapp.com',
-    storageBucket: 'winstar-8fbeb.firebasestorage.app',
+    apiKey: 'AIzaSyC5m1UGVhFfmNVm7U7wPScSu_Lw9i9nqqI',
+    appId: '1:161916040907:web:ca80d2899931f550ef0d4e',
+    messagingSenderId: '161916040907',
+    projectId: 'sjs-ess-9c531',
+    authDomain: 'sjs-ess-9c531.firebaseapp.com',
+    storageBucket: 'sjs-ess-9c531.firebasestorage.app',
   );
+
 }

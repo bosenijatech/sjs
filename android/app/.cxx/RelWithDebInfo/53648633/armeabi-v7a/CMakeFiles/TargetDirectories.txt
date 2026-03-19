@@ -1,2 +1,2 @@
-/Users/nijatech/flutter wokspace studio/winstar/android/app/.cxx/RelWithDebInfo/53648633/armeabi-v7a/CMakeFiles/edit_cache.dir
-/Users/nijatech/flutter wokspace studio/winstar/android/app/.cxx/RelWithDebInfo/53648633/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/nijatech/flutter wokspace studio/sjs/android/app/.cxx/RelWithDebInfo/53648633/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/nijatech/flutter wokspace studio/sjs/android/app/.cxx/RelWithDebInfo/53648633/armeabi-v7a/CMakeFiles/rebuild_cache.dir

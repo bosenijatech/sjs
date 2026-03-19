@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:winstar/utils/app_utils.dart';
+import 'package:sjs/utils/app_utils.dart';
 
 class ClockWidget extends StatelessWidget {
   const ClockWidget({super.key});

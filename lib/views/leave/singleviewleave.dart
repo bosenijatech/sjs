@@ -3,11 +3,11 @@ import 'dart:io';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_pdfview/flutter_pdfview.dart';
-import 'package:winstar/models/viewleavemodel.dart';
-import 'package:winstar/utils/app_utils.dart';
-import 'package:winstar/utils/constants.dart';
-import 'package:winstar/utils/custom_indicatoronly.dart';
-import 'package:winstar/views/widgets/colorstatus.dart';
+import 'package:sjs/models/viewleavemodel.dart';
+import 'package:sjs/utils/app_utils.dart';
+import 'package:sjs/utils/constants.dart';
+import 'package:sjs/utils/custom_indicatoronly.dart';
+import 'package:sjs/views/widgets/colorstatus.dart';
 import 'package:path_provider/path_provider.dart';
 
 class SingleViewLeavePage extends StatefulWidget {

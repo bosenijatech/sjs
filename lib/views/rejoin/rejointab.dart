@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:winstar/utils/app_utils.dart';
-import 'package:winstar/views/leave/leavehistory.dart';
-import 'package:winstar/views/rejoin/viewrejoin.dart';
+import 'package:sjs/utils/app_utils.dart';
+import 'package:sjs/views/leave/leavehistory.dart';
+import 'package:sjs/views/rejoin/viewrejoin.dart';
 
 class ReJoinTab extends StatefulWidget {
   const ReJoinTab({super.key});

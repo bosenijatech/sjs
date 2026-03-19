@@ -1,9 +1,9 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:winstar/main.dart';
-import 'package:winstar/services/pref.dart';
-import 'package:winstar/utils/sharedprefconstants.dart';
-import 'package:winstar/views/login/loginpage.dart';
+import 'package:sjs/main.dart';
+import 'package:sjs/services/pref.dart';
+import 'package:sjs/utils/sharedprefconstants.dart';
+import 'package:sjs/views/login/loginpage.dart';
 
 class IdleTimeoutService with WidgetsBindingObserver {
   static const int timeoutDuration = 15 * 60; // 15 minutes in seconds

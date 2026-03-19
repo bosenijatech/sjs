@@ -1,4 +1,4 @@
-name: winstar
+name: sjs
 description: "Ess"
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 2.0.2+2

@@ -32,7 +32,7 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/nijatech/flutter wokspace studio/winstar/android/app/.cxx/Debug/6530d404/armeabi-v7a",
+		"build" : "/Users/nijatech/flutter wokspace studio/sjs/android/app/.cxx/Debug/6530d404/armeabi-v7a",
 		"source" : "/Users/nijatech/Development/flutter/packages/flutter_tools/gradle/src/main/groovy"
 	},
 	"version" : 

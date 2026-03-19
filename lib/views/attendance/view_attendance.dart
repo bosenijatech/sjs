@@ -2,15 +2,15 @@ import 'dart:convert';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:winstar/models/viewattendancemodel.dart';
-import 'package:winstar/models/viewleavemodel.dart';
-import 'package:winstar/domain/ApiService.dart';
-import 'package:winstar/services/pref.dart';
-import 'package:winstar/utils/app_utils.dart';
-import 'package:winstar/utils/custom_indicatoronly.dart';
-import 'package:winstar/utils/sharedprefconstants.dart';
-import 'package:winstar/views/attendance/regualrization.dart';
-import 'package:winstar/views/widgets/assets_image_widget.dart';
+import 'package:sjs/models/viewattendancemodel.dart';
+import 'package:sjs/models/viewleavemodel.dart';
+import 'package:sjs/domain/ApiService.dart';
+import 'package:sjs/services/pref.dart';
+import 'package:sjs/utils/app_utils.dart';
+import 'package:sjs/utils/custom_indicatoronly.dart';
+import 'package:sjs/utils/sharedprefconstants.dart';
+import 'package:sjs/views/attendance/regualrization.dart';
+import 'package:sjs/views/widgets/assets_image_widget.dart';
 
 class ViewAttendance extends StatefulWidget {
   const ViewAttendance({super.key});

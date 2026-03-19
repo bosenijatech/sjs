@@ -9,17 +9,17 @@ import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:intl/intl.dart';
-import 'package:winstar/domain/ApiService.dart';
-import 'package:winstar/models/offline/offlineattendance.dart';
-import 'package:winstar/models/offline/punchmodel.dart';
-import 'package:winstar/services/pref.dart';
-import 'package:winstar/utils/app_utils.dart';
-import 'package:winstar/utils/appcolor.dart';
+import 'package:sjs/domain/ApiService.dart';
+import 'package:sjs/models/offline/offlineattendance.dart';
+import 'package:sjs/models/offline/punchmodel.dart';
+import 'package:sjs/services/pref.dart';
+import 'package:sjs/utils/app_utils.dart';
+import 'package:sjs/utils/appcolor.dart';
 
-import 'package:winstar/utils/sharedprefconstants.dart';
-import 'package:winstar/views/attendance/clock_widgets.dart';
-import 'package:winstar/views/widgets/assets_image_widget.dart';
-import 'package:winstar/views/widgets/custom_button.dart';
+import 'package:sjs/utils/sharedprefconstants.dart';
+import 'package:sjs/views/attendance/clock_widgets.dart';
+import 'package:sjs/views/widgets/assets_image_widget.dart';
+import 'package:sjs/views/widgets/custom_button.dart';
 import '../../offlinedata/databasehelper.dart';
 
 import '../../offlinedata/synserviceget.dart';

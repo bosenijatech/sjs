@@ -1,22 +1,22 @@
 import 'dart:convert';
-import 'package:winstar/models/holidaymastermodel.dart';
-import 'package:winstar/models/loginmodel.dart';
-import 'package:winstar/services/userstatusservice.dart';
-import 'package:winstar/views/payslip/viewallfiles.dart';
-import 'package:winstar/views/widgets/wishthempage.dart';
+import 'package:sjs/models/holidaymastermodel.dart';
+import 'package:sjs/models/loginmodel.dart';
+import 'package:sjs/services/userstatusservice.dart';
+import 'package:sjs/views/payslip/viewallfiles.dart';
+import 'package:sjs/views/widgets/wishthempage.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:winstar/models/announcementmodel.dart';
-import 'package:winstar/models/error_model.dart';
-import 'package:winstar/models/pendingmodel.dart';
-import 'package:winstar/routenames.dart';
-import 'package:winstar/domain/ApiService.dart';
-import 'package:winstar/services/pref.dart';
-import 'package:winstar/utils/app_utils.dart';
-import 'package:winstar/utils/constants.dart';
-import 'package:winstar/utils/sharedprefconstants.dart';
-import 'package:winstar/views/widgets/assets_image_widget.dart';
+import 'package:sjs/models/announcementmodel.dart';
+import 'package:sjs/models/error_model.dart';
+import 'package:sjs/models/pendingmodel.dart';
+import 'package:sjs/routenames.dart';
+import 'package:sjs/domain/ApiService.dart';
+import 'package:sjs/services/pref.dart';
+import 'package:sjs/utils/app_utils.dart';
+import 'package:sjs/utils/constants.dart';
+import 'package:sjs/utils/sharedprefconstants.dart';
+import 'package:sjs/views/widgets/assets_image_widget.dart';
 import 'package:http/http.dart' as http;
 
 class HomePage extends StatefulWidget {

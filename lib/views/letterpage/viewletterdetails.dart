@@ -1,17 +1,17 @@
 import 'dart:convert';
 import 'dart:io';
-import 'package:winstar/views/payslip/viewallfiles.dart';
+import 'package:sjs/views/payslip/viewallfiles.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:winstar/models/viewlettermodel.dart';
-import 'package:winstar/routenames.dart';
-import 'package:winstar/domain/ApiService.dart';
-import 'package:winstar/utils/app_utils.dart';
-import 'package:winstar/utils/constants.dart';
-import 'package:winstar/utils/custom_indicatoronly.dart';
-import 'package:winstar/views/widgets/assets_image_widget.dart';
-import 'package:winstar/views/widgets/colorstatus.dart';
-import 'package:winstar/views/widgets/custom_button.dart';
+import 'package:sjs/models/viewlettermodel.dart';
+import 'package:sjs/routenames.dart';
+import 'package:sjs/domain/ApiService.dart';
+import 'package:sjs/utils/app_utils.dart';
+import 'package:sjs/utils/constants.dart';
+import 'package:sjs/utils/custom_indicatoronly.dart';
+import 'package:sjs/views/widgets/assets_image_widget.dart';
+import 'package:sjs/views/widgets/colorstatus.dart';
+import 'package:sjs/views/widgets/custom_button.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class ViewLetterDetailsPage extends StatefulWidget {

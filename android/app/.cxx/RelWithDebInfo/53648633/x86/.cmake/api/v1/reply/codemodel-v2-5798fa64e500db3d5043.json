@@ -26,7 +26,7 @@
 	],
 	"kind": "codemodel",
 	"paths": {
-		"build": "/Users/nijatech/flutter wokspace studio/winstar/android/app/.cxx/RelWithDebInfo/53648633/x86",
+		"build": "/Users/nijatech/flutter wokspace studio/sjs/android/app/.cxx/RelWithDebInfo/53648633/x86",
 		"source": "/Users/nijatech/Development/flutter/packages/flutter_tools/gradle/src/main/groovy"
 	},
 	"version": {

@@ -1,5 +1,5 @@
 import 'package:flutter/cupertino.dart';
-import 'package:winstar/utils/appcolor.dart';
+import 'package:sjs/utils/appcolor.dart';
 
 class MenuTileWidget extends StatelessWidget {
   final Widget? icon;

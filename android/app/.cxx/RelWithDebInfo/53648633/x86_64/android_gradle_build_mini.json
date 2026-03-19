@@ -6,14 +6,14 @@
     [
       "/Users/nijatech/Library/Android/sdk/cmake/3.22.1/bin/ninja",
       "-C",
-      "/Users/nijatech/flutter wokspace studio/winstar/android/app/.cxx/RelWithDebInfo/53648633/x86_64",
+      "/Users/nijatech/flutter wokspace studio/sjs/android/app/.cxx/RelWithDebInfo/53648633/x86_64",
       "clean"
     ]
   ],
   "buildTargetsCommandComponents": [
     "/Users/nijatech/Library/Android/sdk/cmake/3.22.1/bin/ninja",
     "-C",
-    "/Users/nijatech/flutter wokspace studio/winstar/android/app/.cxx/RelWithDebInfo/53648633/x86_64",
+    "/Users/nijatech/flutter wokspace studio/sjs/android/app/.cxx/RelWithDebInfo/53648633/x86_64",
     "{LIST_OF_TARGETS_TO_BUILD}"
   ],
   "libraries": {}

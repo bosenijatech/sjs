@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
-import 'package:winstar/utils/netsuite/handlers/request_handler.dart';
+import 'package:sjs/utils/netsuite/handlers/request_handler.dart';
 
 class NetsuiteClient extends http.BaseClient {
   final RequestHandler handler;

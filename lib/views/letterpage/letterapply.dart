@@ -3,15 +3,15 @@ import 'package:dropdown_search/dropdown_search.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:winstar/models/copymodel.dart';
-import 'package:winstar/domain/ApiService.dart';
-import 'package:winstar/services/pref.dart';
-import 'package:winstar/utils/app_utils.dart';
-import 'package:winstar/utils/appcolor.dart';
-import 'package:winstar/utils/sharedprefconstants.dart';
-import 'package:winstar/views/letterpage/lettertypemodel.dart';
-import 'package:winstar/views/widgets/assets_image_widget.dart';
-import 'package:winstar/views/widgets/custom_button.dart';
+import 'package:sjs/models/copymodel.dart';
+import 'package:sjs/domain/ApiService.dart';
+import 'package:sjs/services/pref.dart';
+import 'package:sjs/utils/app_utils.dart';
+import 'package:sjs/utils/appcolor.dart';
+import 'package:sjs/utils/sharedprefconstants.dart';
+import 'package:sjs/views/letterpage/lettertypemodel.dart';
+import 'package:sjs/views/widgets/assets_image_widget.dart';
+import 'package:sjs/views/widgets/custom_button.dart';
 
 class LetterApplyPage extends StatefulWidget {
   const LetterApplyPage({super.key});

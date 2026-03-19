@@ -1,5 +1,5 @@
 import 'package:flutter/cupertino.dart';
-import 'package:winstar/utils/Appcolor.dart';
+import 'package:sjs/utils/Appcolor.dart';
 
 class CustomIndicator extends StatelessWidget {
   const CustomIndicator({super.key});

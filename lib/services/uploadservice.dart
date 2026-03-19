@@ -1,9 +1,9 @@
 import 'dart:convert';
 import 'dart:developer' as log;
-import 'package:winstar/models/filemodel.dart';
-import 'package:winstar/domain/ApiService.dart';
-import 'package:winstar/utils/app_utils.dart';
-import 'package:winstar/views/widgets/assets_image_widget.dart';
+import 'package:sjs/models/filemodel.dart';
+import 'package:sjs/domain/ApiService.dart';
+import 'package:sjs/utils/app_utils.dart';
+import 'package:sjs/views/widgets/assets_image_widget.dart';
 import 'package:flutter/material.dart';
 
 class UploadService {

@@ -1,15 +1,15 @@
 import 'dart:async';
 import 'dart:convert';
 import 'dart:io';
-import 'package:winstar/domain/ApiService.dart';
+import 'package:sjs/domain/ApiService.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:winstar/models/yearmodel.dart';
-import 'package:winstar/services/pref.dart';
-import 'package:winstar/utils/sharedprefconstants.dart';
-import 'package:winstar/views/payslip/payslipmodel.dart';
-import 'package:winstar/views/payslip/viewpdf.dart';
+import 'package:sjs/models/yearmodel.dart';
+import 'package:sjs/services/pref.dart';
+import 'package:sjs/utils/sharedprefconstants.dart';
+import 'package:sjs/views/payslip/payslipmodel.dart';
+import 'package:sjs/views/payslip/viewpdf.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class ViewPaySlipPage extends StatefulWidget {

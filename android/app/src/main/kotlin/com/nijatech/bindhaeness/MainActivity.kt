@@ -1,4 +1,4 @@
-package com.nijatech.winstar
+package com.nijatech.sjs
 
 import io.flutter.embedding.android.FlutterActivity
 

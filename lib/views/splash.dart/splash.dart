@@ -1,11 +1,11 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:winstar/services/pref.dart';
-import 'package:winstar/utils/appcolor.dart';
-import 'package:winstar/utils/sharedprefconstants.dart';
-import 'package:winstar/views/leave/homepage.dart';
-import 'package:winstar/views/login/loginpage.dart';
+import 'package:sjs/services/pref.dart';
+import 'package:sjs/utils/appcolor.dart';
+import 'package:sjs/utils/sharedprefconstants.dart';
+import 'package:sjs/views/leave/homepage.dart';
+import 'package:sjs/views/login/loginpage.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
@@ -48,7 +48,7 @@ class _SplashScreenState extends State<SplashScreen> {
             Align(
               alignment: Alignment(0.0, 1.0),
               child: Text(
-                "Winstar ESS",
+                "SJS ESS",
                 textAlign: TextAlign.start,
                 overflow: TextOverflow.clip,
                 style: TextStyle(

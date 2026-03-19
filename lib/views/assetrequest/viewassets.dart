@@ -1,15 +1,15 @@
 import 'dart:convert';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:winstar/models/viewassetmodel.dart';
-import 'package:winstar/routenames.dart';
-import 'package:winstar/domain/ApiService.dart';
-import 'package:winstar/utils/app_utils.dart';
-import 'package:winstar/utils/constants.dart';
-import 'package:winstar/utils/custom_indicatoronly.dart';
-import 'package:winstar/views/widgets/assets_image_widget.dart';
-import 'package:winstar/views/widgets/colorstatus.dart';
-import 'package:winstar/views/widgets/custom_button.dart';
+import 'package:sjs/models/viewassetmodel.dart';
+import 'package:sjs/routenames.dart';
+import 'package:sjs/domain/ApiService.dart';
+import 'package:sjs/utils/app_utils.dart';
+import 'package:sjs/utils/constants.dart';
+import 'package:sjs/utils/custom_indicatoronly.dart';
+import 'package:sjs/views/widgets/assets_image_widget.dart';
+import 'package:sjs/views/widgets/colorstatus.dart';
+import 'package:sjs/views/widgets/custom_button.dart';
 
 class AssetDetailPage extends StatefulWidget {
   const AssetDetailPage({super.key});

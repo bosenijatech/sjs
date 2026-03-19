@@ -9,7 +9,7 @@ import 'package:mime/mime.dart';
 class AppConstants {
   static String apiBaseUrl = 'https://mobapp.nijatech.com:6000/';
 
-  static const String androidAppPackageName = "com.nijatech.winstar";
+  static const String androidAppPackageName = "com.nijatech.sjs";
   static const String iOSAppID = "6738953923";
 
   static const String netSuiteapiBaseUrl =

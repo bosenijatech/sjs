@@ -1,7 +1,7 @@
-import 'package:winstar/models/viewleavemodel.dart';
-import 'package:winstar/services/pref.dart';
-import 'package:winstar/utils/api_details.dart';
-import 'package:winstar/utils/constants.dart';
+import 'package:sjs/models/viewleavemodel.dart';
+import 'package:sjs/services/pref.dart';
+import 'package:sjs/utils/api_details.dart';
+import 'package:sjs/utils/constants.dart';
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 

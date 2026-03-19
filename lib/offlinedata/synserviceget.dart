@@ -155,7 +155,7 @@ class SyncService {
       final response = await http.get(
         uri,
         headers: {
-          "User-Agent": "WinstarAttendanceApp/1.0",
+          "User-Agent": "SJSAttendanceApp/1.0",
           "Accept-Language": "en",
         },
       ).timeout(const Duration(seconds: 10));

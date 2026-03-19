@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'dart:convert';
-import 'package:winstar/models/empinfomodel.dart';
-import 'package:winstar/domain/ApiService.dart';
-import 'package:winstar/utils/logouthelper.dart';
+import 'package:sjs/models/empinfomodel.dart';
+import 'package:sjs/domain/ApiService.dart';
+import 'package:sjs/utils/logouthelper.dart';
 import 'package:flutter/material.dart';
 
 class UserStatusService {

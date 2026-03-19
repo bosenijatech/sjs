@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:winstar/services/pref.dart';
-import 'package:winstar/utils/app_utils.dart';
-import 'package:winstar/utils/sharedprefconstants.dart';
+import 'package:sjs/services/pref.dart';
+import 'package:sjs/utils/app_utils.dart';
+import 'package:sjs/utils/sharedprefconstants.dart';
 
 class MyTeamScreen extends StatelessWidget {
   const MyTeamScreen({super.key});

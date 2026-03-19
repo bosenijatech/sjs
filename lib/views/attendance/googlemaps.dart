@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:permission_handler/permission_handler.dart' as handler;
 import 'package:location/location.dart' as loca;
-import 'package:winstar/utils/app_utils.dart';
+import 'package:sjs/utils/app_utils.dart';
 
 class GoogleMapsPage extends StatefulWidget {
   late String latlang;

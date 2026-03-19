@@ -1,1 +1,1 @@
-/Users/nijatech/flutter wokspace studio/winstar/build/app/intermediates/cxx/Debug/5ta6r414/obj/x86_64
+/Users/nijatech/flutter wokspace studio/sjs/build/app/intermediates/cxx/Debug/5ta6r414/obj/x86_64
