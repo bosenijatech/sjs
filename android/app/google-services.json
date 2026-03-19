@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503248905696",
+    "project_id": "winstar-8fbeb",
+    "storage_bucket": "winstar-8fbeb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503248905696:android:068cc2d2b5edd0f5d8b785",
+        "android_client_info": {
+          "package_name": "com.nijatech.winstar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoSOQqC9dzBB5oU8iZRSChI33bhavOZKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+/Users/nijatech/flutter wokspace studio/winstar/android/app/.cxx/Debug/5ta6r414/x86/CMakeFiles/edit_cache.dir
+/Users/nijatech/flutter wokspace studio/winstar/android/app/.cxx/Debug/5ta6r414/x86/CMakeFiles/rebuild_cache.dir
